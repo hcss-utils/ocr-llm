@@ -1,0 +1,42 @@
+[
+  {
+    "original_name": "tyutchev_polnoe_sobranie_tom3_2003_text_removed.pdf",
+    "new_name": "1.pdf",
+    "languages": ["RU", "FR", "DE"],
+    "pages": 8,
+    "is_scan": false,
+    "notes": "1 ToC + 7 pages of text; not a scan, but not a perfect quality"
+  },
+  {
+    "original_name": "алексей_хомяков (1)_removed.pdf",
+    "new_name": "2.pdf",
+    "languages": ["RU"],
+    "pages": 4,
+    "is_scan": false,
+    "notes": "2 ToC + 2 pages of text"
+  },
+  {
+    "original_name": "Василий_Васильевич_Розанов_Два_вида_«правительства».pdf",
+    "new_name": "3.pdf",
+    "languages": ["RU"],
+    "pages": 2,
+    "is_scan": false,
+    "notes": "2 pages of text"
+  },
+  {
+    "original_name": "Гомо_советикус_—_Lausanne_L'Age_d'Homme_1982_removed.pdf",
+    "new_name": "4.pdf",
+    "languages": ["RU"],
+    "pages": 2,
+    "is_scan": false,
+    "notes": "2 pages of text; headers"
+  },
+  {
+    "original_name": "Иван_Васильевич_КИРЕЕВСКИЙ_РАЗУМ_НА_Пути_К_removed.pdf",
+    "new_name": "5.pdf",
+    "languages": ["RU"],
+    "pages": 4,
+    "is_scan": true,
+    "notes": "1 book cover, 1 foreword, 3 pages of text (two sides per page)"
+  }
+]
