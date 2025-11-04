@@ -57,13 +57,12 @@ def _encode_pdf(pdf_path: Path) -> str | None:
 def main() -> int:
     """Main entry point"""
     for filename in input_path.rglob("*.pdf"):
-        print(filename)
         contents = llm_ocr(client=client, pdf_path=filename)
         if contents:
             output_filename = output_path / f"{filename.stem}.json"
             with output_filename.open("w") as f:
                 f.write(contents.model_dump_json())
-        return 0
+    return 0
 
 
 if __name__ == "__main__":
